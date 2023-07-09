@@ -83,7 +83,7 @@ body::before{
 .personagem-selecionado .descricao-personagem{
     font-size: 16px;
     line-height: 22px;
-    text-align: center;
+    text-align: justify;
     margin-top: 20px;
     width: 420px;
 }
